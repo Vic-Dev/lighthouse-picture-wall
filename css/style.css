@@ -6,7 +6,9 @@
     padding: 6px; }
     #team-members .member img {
       width: 200px;
-      height: 200px; }
+      height: 200px;
+      border-radius: 100%;
+      box-shadow: 10px 10px 5px #888888; }
     #team-members .member img:hover {
       opacity: 0.8; }
     #team-members .member div.name {

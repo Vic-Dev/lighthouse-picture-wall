@@ -7,6 +7,8 @@
     img {
       width: 200px;
       height: 200px;
+      border-radius: 100%;
+      box-shadow: 10px 10px 5px #888888;
     }
     img:hover {
       opacity: 0.8;
